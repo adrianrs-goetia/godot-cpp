@@ -3,6 +3,7 @@
 .import/
 .godot/
 /gen/
+obj/
 
 # Godot 3.x ignores
 include/gen
